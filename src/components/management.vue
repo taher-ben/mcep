@@ -1,96 +1,97 @@
 <template>
   <div class="grid xl:grid-cols-4 xl:grid-rows-2 gap-4 grid-cols-1 py-12 px-7">
     <!-- Infection Control Management -->
-    <a
-      href="#/InfectionControl"
+    <router-link
+      :to="{ name: 'showMangement', params: { type: 'InfectionControl' } }"
       class="relative box-events bg-Pest-image bg-cover bg-center text-white h-64"
     >
       <div class="absolute top-0 px-4 py-4 z-20">
         <h5 class="text-xl">Infection Control Management</h5>
       </div>
-    </a>
+    </router-link>
 
     <!-- Medical Waste Management -->
-    <a
-      href="#/MedicalWaste"
+    <router-link
+      :to="{ name: 'showMangement', params: { type: 'MedicalWaste' } }"
       class="relative box-events bg-Medical-image bg-cover bg-center text-white h-64"
     >
       <div class="absolute top-0 px-4 py-4 z-20">
         <h5 class="text-xl">Medical Waste Management</h5>
       </div>
-    </a>
+    </router-link>
 
     <!-- Pest Control Management -->
-    <a
-      href="#/PestControl"
+    <router-link
+      :to="{ name: 'showMangement', params: { type: 'PestControl' } }"
       class="relative box-events bg-news-image-one bg-cover bg-center text-white h-64"
     >
       <div class="absolute top-0 px-4 py-4 z-20">
         <h5 class="text-xl">Pest Control Management</h5>
       </div>
-    </a>
+    </router-link>
 
     <!-- Pharmaceutical Waste Management -->
-    <a
-      href="#/PharmaceuticalWaste"
+    <router-link
+      :to="{ name: 'showMangement', params: { type: 'PharmaceuticalWaste' } }"
       class="relative box-events bg-pharmace-image bg-cover bg-center text-white h-64"
     >
       <div class="absolute top-0 px-4 py-4 z-20">
         <h5 class="text-xl">Pharmaceutical Waste Management</h5>
       </div>
-    </a>
+    </router-link>
 
     <!-- Oil Waste Management -->
-    <a
-      href="#/OilWaste"
+    <router-link
+      :to="{ name: 'showMangement', params: { type: 'OilWaste' } }"
       class="relative box-events bg-petrol-image bg-cover bg-center text-white h-64"
     >
       <div class="absolute top-0 px-4 py-4 z-20">
         <h5 class="text-xl">Oil Waste Management</h5>
       </div>
-    </a>
+    </router-link>
 
     <!-- Training and Development Management -->
-    <a
-      href="#/TrainingDevelopment"
+    <router-link
+      :to="{ name: 'showMangement', params: { type: 'TrainingDevelopment' } }"
       class="relative box-events bg-trining-image bg-cover bg-center text-white h-64"
     >
       <div class="absolute top-0 px-4 py-4 z-20">
         <h5 class="text-xl">Training and Development Management</h5>
       </div>
-    </a>
+    </router-link>
 
     <!-- Environmental Studies -->
-    <a
-      href="#/EnvironmentalStudies"
+    <router-link
+      :to="{ name: 'showMangement', params: { type: 'EnvironmentalStudies' } }"
       class="relative box-events bg-study-1 bg-cover bg-center text-white h-64"
     >
       <div class="absolute top-0 px-4 py-4 z-20">
         <h5 class="text-xl">Environmental Studies</h5>
       </div>
-    </a>
+    </router-link>
 
     <!-- Cleaning Management and Café -->
-    <a
-      href="#/GeneralCleanliness"
+    <router-link
+      :to="{ name: 'showMangement', params: { type: 'GeneralCleanliness' } }"
       class="relative box-events bg-coffee-image bg-cover bg-center text-white h-64"
     >
       <div class="absolute top-0 px-4 py-4 z-20">
         <h5 class="text-xl">Cleaning Management and Café</h5>
       </div>
-    </a>
+    </router-link>
 
     <!-- Asbestos Disposal Management -->
-    <a
-      href="#/AsbestosMcep"
+    <router-link
+      :to="{ name: 'showMangement', params: { type: 'AsbestosMcep' } }"
       class="relative box-events bg-Asbestos-Mcep bg-cover bg-center text-white h-64"
     >
       <div class="absolute top-0 px-4 py-4 z-20">
         <h5 class="text-xl">Asbestos Disposal Management</h5>
       </div>
-    </a>
+    </router-link>
   </div>
 </template>
+
 <style>
 .box-events::before {
   content: "";

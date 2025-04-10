@@ -377,6 +377,7 @@
     </div>
   </div>
   <management />
+  <showMangement />
 </template>
 <script>
 export default {

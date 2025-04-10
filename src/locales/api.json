@@ -1,7 +1,7 @@
 {
   "en": {
-    "services": [
-      {
+    "services": {
+      "InfectionControl": {
         "title": "Infection Control Management",
         "description": "Infection control management at Marsellia Cleaning and Environmental Protection Company is considered one of the key aspects in its mission to enhance the safety and quality of healthcare within institutions and healthcare facilities. Healthcare-associated infections are among the major health problems affecting the healthcare system globally, regionally, and locally. They are one of the leading causes of mortality among inpatients and visitors to healthcare facilities. Additionally, they cause delays in receiving treatment within hospitals and healthcare facilities.",
         "title-two": "Infection Control Strategy",
@@ -17,11 +17,11 @@
           "Making recommendations for providing appropriate personal protective equipment according to international standards."
         ]
       },
-      {
+      "MedicalWaste": {
         "title": "Medical Waste Management",
         "description": "Medical waste management represents a vital and sensitive aspect of the healthcare sector, requiring a high level of professionalism and caution in handling such special waste. Medical waste varies in its sources and characteristics, encompassing a wide range of materials and products that are generated and disposed of daily within hospitals, healthcare facilities, and clinics. These wastes include, but are not limited to, contaminated human tissues, blood, and organic body fluids that require proper and safe disposal methods. Additionally, they also include sharp objects, needles, and syringes, which must be disposed of in specific ways to ensure individuals are not exposed to injuries during the disposal process. Thanks to continuous medical and scientific advancements, the need for safe and effective disposal of medical waste has become more crucial than ever before. Failure to properly dispose of these wastes can have catastrophic effects on public health and the environment, such as air, water, and soil pollution resulting from improper disposal of medical waste. It can also contribute to the spread of diseases and infections, posing a threat to the public health of surrounding communities. Therefore, companies specialized in medical waste management play a critical role in preserving community health and protecting the environment. Mersalia Cleanliness and Environmental Protection Company aims to provide excellent and efficient services in managing this biohazardous waste in a safe and responsible manner. This is achieved by relying on best practices and modern technologies in this field. Furthermore, the company strives to offer the necessary support and consultations to healthcare institutions, ensuring that waste disposal is carried out in accordance with international standards and applicable local legislation.",
         "title-two": "How does Marsellia handle medical waste?",
-        "description-two": [],
+        "description-two": "",
         "steps": [
           "Administration: Waste is sorted and classified according to its type and the level of hazard it poses.",
           "Collection: Waste is collected after sorting at designated sites, and radioactive materials are isolated using special procedures.",
@@ -30,50 +30,50 @@
           "Disposal: After the treatment processes are complete, the treated waste is disposed of responsibly and safely in a secure landfill."
         ]
       },
-      {
+      "PestControl": {
         "title": "Pest Control Management",
         "description": "With Marsellia Cleaning and Environmental Protection Company, you can rest assured that you're dealing with experts in pest control. We provide specialized services in pest and disease vector control in an effective and safe manner. We're here to meet your needs, offering specialized consultations and innovative treatment programs using the latest scientific methods. Proud of our exceptional team, certified by the British Pest Control Association (BPCA), with extensive experience in the field. Our team efficiently delivers our distinguished services in accordance with the Integrated Pest Management (I.P.M) program, the global standard for pest control. We adhere to international and local laws in the use and control of pest control substances, focusing our efforts solely on targeted pests while excluding non-target individuals, environments, and organisms. We ensure an optimal and safe environment for our clients and the community, using environmentally friendly materials and pesticides that maintain human health. Performance is regularly monitored and evaluated to ensure compliance with global environmental protection standards. Depending on your needs, we offer tailored solutions for various pest control needs, including reptiles, rodents, flying and crawling insects, and more. We also rely on modern and innovative techniques to combat these pests, with a focus on prevention and proactive measures to prevent outbreaks and pest proliferation.",
         "title-two": "Pest Control Strategy",
-        "description-two": [],
+        "description-two": "",
         "steps": [
           "With our experience and the expertise of our specialized team, we can provide effective and suitable solutions for various sectors such as commercial businesses, government institutions, healthcare facilities, hotels, restaurants, schools, and more. We understand that each client has unique needs, so we are committed to providing personalized service tailored to their specific requirements. If you're looking for a company that offers reliable and effective pest control solutions, Marsellia Cleaning and Environmental Protection Company is the perfect choice. Contact us today for a free consultation and comprehensive assessment of your needs. We are here to help create a safe and clean environment for you and your facilities."
         ]
       },
-      {
+      "PharmaceuticalWaste": {
         "title": "Pharmaceutical Waste Management",
         "description": "Pharmaceutical waste comprises a variety of medications and healthcare materials that become unfit for use or are no longer needed for several reasons. Among these reasons, medication expiration is common, where drugs lose their effectiveness after their specified expiry date. Additionally, exceeding the allowable timeframe for using medication after opening the package is another common reason for medications becoming waste. Some medications are also prohibited for use and are collected for disposal due to changes in drug composition, cost issues, or building a comprehensive patient record. Proper disposal of these medications is part of sound pharmacy policies and maintaining public safety.",
         "title-two": "How does Marsellia handle pharmaceutical waste?",
-        "description-two": [],
+        "description-two": "",
         "steps": [
           "Marsellia is considered a leader in the safe disposal of pharmaceutical waste, owning several units for the safe disposal of various waste types, including high-temperature incinerators and primary and secondary furnaces. These units are essential in the company's efforts to effectively and responsibly manage pharmaceutical waste. Marsellia aims to reduce the harmful environmental effects resulting from improper disposal of expired and damaged pharmaceutical waste. The company works diligently to develop comprehensive plans that encompass all aspects of waste disposal. This includes collecting waste from all healthcare activities, pharmaceutical companies, factories, distributors, and agents nationwide. The waste managed by Marsellia's pharmaceutical waste management includes a variety of materials, including human medications, veterinary medications, cosmetics, health consumables, medical supplies, and baby formula. These wastes are handled in secure and safe ways to ensure they do not negatively impact the environment and public health."
         ]
       },
-      {
+      "TrainingDevelopment": {
         "title": "Training and Development Management",
         "description": "The Training and Development Management at Marsellia Cleaning and Environmental Protection Company is one of the prominent key departments within the company, dedicating its efforts to designing carefully tailored training programs to meet the needs of the company's employees. This ranges from basic training for new recruits to specialized training for nursing teams and healthcare facility workers in both the public and private sectors. These programs also aim to develop the skills of current employees and equip them with the knowledge and experience necessary to address the evolving challenges in the fields of cleanliness, environmental preservation, and infection control.",
         "title-two": " ",
-        "description-two": [],
+        "description-two": "",
         "steps": []
       },
-      {
+      "OilWaste": {
         "title": "Oil Waste Management",
         "description": "Marsellia for Cleanliness & Environmental Protections is one of the leading companies in the environmental services sector in the region. Within its organizational structure, the company includes several key departments that cover various aspects related to its operations and strategic objectives. One of the most prominent of these departments is the Environmental Studies Department, which plays a pivotal role in developing and implementing the company's strategies and programs aimed at environmental conservation and protection. The Environmental Studies Department is responsible for several key tasks, including: Conducting studies and research related to the potential environmental impacts of various projects and activities undertaken or supervised by the company. Evaluating these environmental impacts and providing effective recommendations and solutions for mitigating or addressing them. Participating in the formulation of environmental policies and initiatives adopted by the company, in coordination with the relevant government and community entities. Contributing to the development of environmental awareness and education programs within the company and the local community. Monitoring and overseeing the implementation of projects and initiatives with environmental dimensions. The presence of this strong department within Marsellia's structure is of utmost importance for enhancing the company's leadership in the field of integrated environmental services and enabling it to achieve its ambitious goals towards environmental sustainability.",
         "title-two": " ",
         "description-two": [],
         "steps": []
       },
-      {
+      "EnvironmentalStudies": {
         "title": "Environmental Studies Management",
         "description": "Marsellia for Cleanliness & Environmental Protections is one of the leading companies in the environmental services sector in the region. Within its organizational structure, the company includes several key departments that cover various aspects related to its operations and strategic objectives. One of the most prominent of these departments is the Environmental Studies Department, which plays a pivotal role in developing and implementing the company's strategies and programs aimed at environmental conservation and protection. The Environmental Studies Department is responsible for several key tasks, including: Conducting studies and research related to the potential environmental impacts of various projects and activities undertaken or supervised by the company. Evaluating these environmental impacts and providing effective recommendations and solutions for mitigating or addressing them. Participating in the formulation of environmental policies and initiatives adopted by the company, in coordination with the relevant government and community entities. Contributing to the development of environmental awareness and education programs within the company and the local community. Monitoring and overseeing the implementation of projects and initiatives with environmental dimensions. The presence of this strong department within Marsellia's structure is of utmost importance for enhancing the company's leadership in the field of integrated environmental services and enabling it to achieve its ambitious goals towards environmental sustainability.",
         "title-two": " ",
-        "description-two": [],
+        "description-two": "",
         "steps": []
       },
-      {
+      "GeneralCleanliness": {
         "title": "Cleaning Management and Café",
         "description": "Marsellia for Cleanliness & Environmental Protections is one of the leading companies in the environmental services sector in the region. Within its organizational structure, the company includes several key departments that cover various aspects related to its operations and strategic objectives. One of the most prominent of these departments is the Environmental Studies Department, which plays a pivotal role in developing and implementing the company's strategies and programs aimed at environmental conservation and protection. The Environmental Studies Department is responsible for several key tasks, including: Conducting studies and research related to the potential environmental impacts of various projects and activities undertaken or supervised by the company. Evaluating these environmental impacts and providing effective recommendations and solutions for mitigating or addressing them. Participating in the formulation of environmental policies and initiatives adopted by the company, in coordination with the relevant government and community entities. Contributing to the development of environmental awareness and education programs within the company and the local community. Monitoring and overseeing the implementation of projects and initiatives with environmental dimensions. The presence of this strong department within Marsellia's structure is of utmost importance for enhancing the company's leadership in the field of integrated environmental services and enabling it to achieve its ambitious goals towards environmental sustainability.",
         "title-two": "Our Services",
-        "description-two": [],
+        "description-two": "",
         "steps": [
           "Preparing hot and cold beverages: We skillfully prepare a variety of hot and cold beverages according to customers' preferences.",
           "Providing snacks: We offer a diverse selection of delicious snacks that cater to all tastes.",
@@ -88,11 +88,11 @@
           "Office and public space cleaning: All offices and public areas are meticulously cleaned to provide a clean and tidy environment that enhances the performance of employees and visitors."
         ]
       },
-      {
+      "AsbestosMcep": {
         "title": "Asbestos Disposal Management",
         "description": "Asbestos disposal management represents a vital and sensitive aspect in the construction and environmental health sector, requiring a high level of professionalism and caution when handling these hazardous materials. Asbestos is present in many old buildings and can pose a significant risk to public health if not handled correctly. The asbestos disposal process involves several key stages, all of which require precise procedures to ensure safety and prevent contamination.",
         "title-two": "Here is how Marseille Company handles asbestos disposal:",
-        "description-two": [],
+        "description-two": "",
         "steps": [
           "Management and Assessment: The process begins with a comprehensive site assessment to identify the presence of asbestos, its type, and the associated risk level. A specialized team inspects the building and conducts the necessary tests to identify asbestos-containing materials.",
           "Planning and Preparation: After the assessment, a detailed plan is developed to safely remove the asbestos. The plan includes preparing the site with barriers and personal protective equipment to ensure the safety of workers and the surrounding environment. Specific areas are also prepared to securely contain the removed materials.",
@@ -103,23 +103,115 @@
           "Marseille Company plays a pivotal role in maintaining community health and protecting the environment from asbestos risks, relying on best practices and modern technologies in this field. The company aims to provide outstanding and efficient services to ensure safe and responsible asbestos disposal, offering necessary support and consultations to institutions and individuals to ensure everyone's safety."
         ]
       }
-    ],
+    },
     "news": [
       {
-        "title": "Visit of Thermomeccanica Ecologia to Marsilia for Environmental Cooperation",
-        "des": "Today, on July 9, 2024, Marsilia Company had the honor of welcoming Mr. Rossi Ricardo, the Commercial Director of the Italian company Thermomeccanica Ecologia. The purpose of the visit was to review our company's capabilities in the field of environmental logistics services. This visit provided an opportunity to exchange expertise and discuss potential future cooperation between the two companies. At Marsilia Company, we are committed to providing the best environmental services and believe that this visit will contribute to enhancing our position and sustainably developing our services. Stay tuned to our website for more updates and company news."
+        "title": "زيارة السيد روسي ريكاردو من شركة تيرموميكانيكا إيكولوجيا الإيطالية لشركة مرسيليا لتعزيز التعاون البيئي",
+        "des": "تشرفت شركة مرسيليا بتاريخ 2024/07/09 بزيارة السيد روسي ريكاردو، المدير التجاري لشركة تيرموميكانيكا إيكولوجيا الإيطالية. وتهدف هذه الزيارة إلى الاطلاع على قدرات وإمكانيات شركتنا في مجال الخدمات اللوجستية البيئية. أتاحت هذه الزيارة الفرصة لتبادل الخبرات ومناقشة أوجه التعاون المستقبلية بين الشركتين. نحن في شركة مرسيليا ملتزمون بتقديم أفضل الخدمات البيئية، ونؤمن بأن هذه الزيارة ستسهم في تعزيز مكانتنا وتطوير خدماتنا بشكل مستدام. تابعوا موقعنا لمزيد من التحديثات وأخبار شركتنا."
       },
       {
-        "title": "Strategic Partnership between Marseille Cleaning and Amak International to Achieve Sustainability in the Oil and Gas Sector",
-        "des": "Today, on July 9, 2024, Marsilia Company had the honor of welcoming Mr. Rossi Ricardo, the Commercial Director of the Italian company Thermomeccanica Ecologia. The purpose of the visit was to review our company's capabilities in the field of environmental logistics services. This visit provided an opportunity to exchange expertise and discuss potential future cooperation between the two companies. At Marsilia Company, we are committed to providing the best environmental services and believe that this visit will contribute to enhancing our position and sustainably developing our services. Stay tuned to our website for more updates and company news."
+        "title": "شراكة استراتيجية بين مرسيليا للنظافة وأعماق الدولية لتحقيق الاستدامة في قطاع النفط والغاز",
+        "des": "قامت شركة مرسيليا للنظافة وحماية البيئة، بالتعاون مع شركة أعماق الدولية للمخلفات النفطية، بتقديم خدماتها المتميزة لشركة مليته للنفط والغاز. تشمل هذه الخدمات معالجة وإدارة المخلفات النفطية بأحدث التقنيات المتطورة، بما يضمن الحفاظ على البيئة والالتزام بالمعايير العالمية. تأتي هذه الشراكة لتعزز جهود الشركتين في تحقيق الاستدامة البيئية والارتقاء بمستوى العمليات التشغيلية في قطاع النفط والغاز. وتفتخر شركة مرسيليا بالتعاون مع شركة أعماق الدولية في تقديم حلول مبتكرة ومتكاملة تلبي احتياجات شركائها وتُسهم في تحقيق أهدافهم البيئية والاقتصادية."
       },
       {
-        "title": "Strategic Partnership between Marseille Cleaning and Amak International to Achieve Sustainability in the Oil and Gas Sector",
-        "des": "Marseille Cleaning and Environmental Protection Company, in cooperation with Amak International for Oil Waste, has provided its distinguished services to Mellitah Oil and Gas Company. These services include the treatment and management of oil waste using the latest advanced technologies, ensuring environmental protection and adherence to global standards. This partnership comes to enhance the efforts of both companies in achieving environmental sustainability and improving operational processes in the oil and gas sector. Marseille Company is proud to collaborate with Amak International to offer innovative and integrated solutions that meet the needs of its partners and contribute to achieving their environmental and economic goals."
+        "title": "مرسيليا وأعماق الدولية تنجحان في معالجة المخلفات النفطية بمحطة جنزور لصالح الشركة العامة للكهرباء",
+        "des": "قامت شركة مرسيليا للنظافة وحماية البيئة، بالتعاون مع شركة أعماق الدولية للخدمات النفطية، بإتمام أعمال معالجة المخلفات النفطية لصالح الشركة العامة للكهرباء في محطة جنزور بنجاح. تضمنت الأعمال تنفيذ جميع الإجراءات اللازمة لضمان التخلص الآمن والبيئي من المخلفات النفطية المتراكمة، بما يتوافق مع المعايير البيئية الدولية والمحلية. وتأتي هذه الخطوة في إطار التزام شركة مرسيليا بتقديم أفضل الحلول والخدمات المتكاملة لعملائها في قطاع النفط والطاقة، وحرصها على تعزيز الشراكات الاستراتيجية لضمان استدامة العمليات وتحقيق الفوائد البيئية والاقتصادية المرجوة."
       },
       {
-        "title": "Strategic Partnership between Marseille Cleaning and Amak International to Achieve Sustainability in the Oil and Gas Sector",
-        "des": "Marseille Cleaning and Environmental Protection Company, in cooperation with Amak International for Oil Waste, has provided its distinguished services to Mellitah Oil and Gas Company. These services include the treatment and management of oil waste using the latest advanced technologies, ensuring environmental protection and adherence to global standards. This partnership comes to enhance the efforts of both companies in achieving environmental sustainability and improving operational processes in the oil and gas sector. Marseille Company is proud to collaborate with Amak International to offer innovative and integrated solutions that meet the needs of its partners and contribute to achieving their environmental and economic goals."
+        "title": "رصد الانبعاثات بالتعاون مع وزارة البيئة وجهاز الشرطة البيئية",
+        "des": "قامت شركة الحياة الخضراء، بالتعاون مع وزارة البيئة وجهاز الشرطة البيئية، بتنفيذ مشروع رصد الانبعاثات الناتجة عن الانفجار البركاني الأخير في صقلية، إيطاليا. يتضمن المشروع نشر أنظمة مراقبة جودة الهواء المتقدمة في مواقع استراتيجية مختلفة في طرابلس لضمان رصد ومتابعة الانبعاثات المحتملة بشكل دقيق وفعّال. تم تجهيز الفرق الميدانية بأحدث التقنيات، بما في ذلك أجهزة مراقبة الهواء المحمولة والطائرات بدون طيار، لضمان تغطية شاملة وتحليل دقيق للبيانات البيئية. يهدف هذا الجهد إلى حماية البيئة وصحة المواطنين من الآثار الضارة المحتملة الناتجة عن الانفجار البركاني. تؤكد شركة الحياة الخضراء التزامها بالحفاظ على البيئة وتقديم الحلول البيئية المتقدمة بالتعاون مع الجهات الحكومية لضمان بيئة صحية ونظيفة للجميع."
+      },
+      {
+        "title": "سياسة فصل النفايات في شركة مرسيليا: إعادة التدوير والحفاظ على الموارد",
+        "des": "نعتمد في شركة مرسيليا سياسة فصل النفايات في مواقعها من خلال نهج شامل. كجزء من هذه المبادرة، قمنا بوضع حاويات مخصصة لتجميع النفايات في مختلف أنحاء منشآتنا، مما يتيح لنا فصل التيارات المختلفة للنفايات. الفئات الرئيسية التي نفصلها تشمل: نفايات الورق والكرتون، نفايات البلاستيك، نفايات الحديد، ونفايات الزجاج. يتم جمع كل نوع في حاويات مخصصة لإعادة تدويره بشكل منفصل. كما يتلقى موظفونا تدريبًا منتظمًا على إجراءات الفصل الصحيحة، ونقوم بحملات توعية لتثقيف عملائنا والمجتمع المحلي بأهمية فصل النفايات. نؤمن بأن هذا النهج المتكامل أمر حيوي لتحقيق الأثر البيئي الإيجابي والانتقال نحو اقتصاد دائري ومستدام."
+      },
+      {
+        "title": "شركة مرسيليا تبحث آفاق التعاون مع شركة أكرماك التركية لتطوير إدارة النفايات",
+        "des": "في إطار سعي شركة مرسيليا الليبية الرائدة في مجال إدارة النفايات إلى توسيع نطاق علاقاتها التجارية والتعاونية على الصعيد الدولي، استقبلت الشركة وفدًا من شركة أكرماك التركية الرائدة في أجهزة التعقيم وأنظمة معالجة النفايات الطبية وإعادة تدوير الإطارات. امتدت الزيارة لثلاثة أيام، التقى خلالها وفد مرسيليا بالمدير العام ومدير المبيعات. تم استعراض القدرات الفنية المتطورة لشركة أكرماك، وناقش الجانبان آليات التعاون المشترك في المجالات المختلفة لإدارة النفايات. كما تم الاتفاق على تشكيل فريق عمل مشترك لدراسة إمكانية توريد أجهزة تعقيم متطورة وأنظمة معالجة النفايات الطبية لمرافق الرعاية الصحية في ليبيا. وأعرب مسؤولو أكرماك عن تقديرهم لجهود شركة مرسيليا، مؤكدين رغبتهم في تعزيز التعاون المستقبلي. من جانبها، أكدت مرسيليا التزامها بتقديم أفضل الخدمات للمجتمع المحلي انطلاقًا من رؤيتها لتحقيق التنمية المستدامة."
+      },
+      {
+        "title": "طلاب الهندسة البيئية بجامعة صبراتة يقومون بزيارة ميدانية لشركة مرسيليا لتطوير خبراتهم المهنية",
+        "des": "في إطار التعاون بين جامعة صبراتة وشركة مرسيليا، نظّمت الشركة زيارة ميدانية لطلاب قسم الهندسة البيئية. هدفت الزيارة إلى ربط المعارف النظرية بالتطبيقات العملية. استقبل فريق من خبراء الشركة الطلاب ومشرفيهم، وبدأت الزيارة بتقديم عام عن أنشطة الشركة وجهودها في الاستدامة البيئية، تلاها شرح مفصل للتقنيات المستخدمة في معالجة النفايات. شملت الجولة زيارة مرافق المعالجة، حيث اطلع الطلاب على عمليات الفرز والتكرير والتخلص الآمن من النفايات. تفاعل الطلاب مع الخبراء وطرحوا الأسئلة، معبرين عن إعجابهم بالممارسات المتقدمة. واختُتمت الزيارة بتأكيد الجميع على أهمية هذا النوع من التعاون لإعداد كوادر بيئية مؤهلة قادرة على الإسهام الفعّال في التنمية المستدامة."
+      },
+      {
+        "title": "مرسيليا للنظافة والبيئة توسع خبرتها من خلال التعاون الفني",
+        "des": "في إطار جهودها لتعزيز خدماتها، استضافت شركة مرسيليا اجتماعًا مع ممثلين عن شركة Termomeccanica Ecologia Spa الإيطالية، المتخصصة في الهندسة البيئية والتكنولوجيا النظيفة. هدف اللقاء إلى تبادل الخبرات واستكشاف مجالات التعاون، لا سيما في إدارة مياه الصرف الصحي. ناقش الطرفان إمكانية التعاون في الاستشارات الفنية وتطوير مشاريع المعالجة، كما أجرى فريق مرسيليا تقييمًا شاملاً للمعدات الكهروميكانيكية في محطة STP. يندرج هذا ضمن جهود الشركة لتحسين أداء البنية التحتية وضمان أعلى معايير الإدارة البيئية. من خلال هذه الشراكات والتحسينات، تعزز مرسيليا مكانتها كمزود موثوق للخدمات البيئية المستدامة في السوق الليبية."
+      },
+      {
+        "title": "زيارة فريق اتحاد الصيادلة العرب وهيئة العلماء والخبراء العرب",
+        "des": "كانت زيارة فريق اتحاد الصيادلة العرب وهيئة العلماء والخبراء العرب لشركتنا، بقيادة الدكتور علي إبراهيم، فرصة رائعة لتبادل الخبرات وتعزيز التعاون في مجالات الصيدلة وحماية البيئة. أعربنا عن سعادتنا بهذا اللقاء البنّاء ونتطلع إلى مستقبل مشرق من التعاون المثمر. شكرًا لفريق الاتحاد والهيئة على زيارتهم الهامة. نحن متحمسون للعمل معًا من أجل مستقبل أفضل."
+      },
+      {
+        "title": "شركة مرسيليا تنظم حملة تنظيف لكلية الهندسة بجامعة طرابلس",
+        "des": "في إطار جهودها لتحسين بيئة الجامعة، نظّمت شركة مرسيليا حملة تنظيف شاملة لكلية الهندسة بجامعة طرابلس يوم الجمعة الموافق 5 مايو 2023. شملت الحملة إزالة الملصقات والرسومات العشوائية من جدران المبنى الرئيسي، استعدادًا للمؤتمر العلمي حول موارد المياه والأمن المائي. تأتي هذه الحملة ضمن المبادرات المستمرة لشركة مرسيليا في دعم البيئة الجامعية بالتعاون مع المؤسسات التعليمية."
+      },
+      {
+        "title": "درنة: شركة مرسيليا تقود مبادرة لدعم المجتمع المحلي بعد إعصار دانيال",
+        "des": "في أعقاب الإعصار الذي ضرب مدينة درنة، كثّفت شركة مرسيليا، بالتعاون مع المركز الوطني لإدارة الأزمات، جهودها لدعم المجتمع المحلي. شملت المبادرة عمليات تنظيف واسعة ومكافحة الآفات في المناطق المتضررة، في إطار استجابة وطنية شاملة. تؤكد هذه المبادرة التزام شركة مرسيليا بالمساهمة في إعادة إعمار المدينة وتعزيز التضامن المجتمعي بالتعاون مع الجهات الحكومية."
+      },
+      {
+        "title": "شركة مرسيليا للنظافة وحماية البيئة تعلن عن بدء مرحلة التخلص النهائي من المخلفات الصيدلانية والغذائية منتهية الصلاحية في ميناء طرابلس",
+        "des": "أعلنت شركة مرسيليا عن بدء التخلص النهائي من المخلفات الصيدلانية والغذائية غير المطابقة للمعايير الليبية في ميناء طرابلس، بالتعاون مع وزارة البيئة والهيئة الليبية للجمارك. يتم تنفيذ العمليات بأقصى درجات الحذر لضمان حماية البيئة والصحة العامة. يتم فحص وفرز النفايات وفق أحدث الطرق والمعايير البيئية. هذه الخطوة تبرز التزام الشركة بتطبيق أعلى معايير الجودة والسلامة ودعم جهود التنمية المستدامة في ليبيا."
+      },
+      {
+        "title": "نعلن بفخر بدء عمليات التخلص النهائي من النفايات الخطرة في أول خلية دفن صحية (خلية دفن آمنة) في ليبيا",
+        "des": "بفخر، تعلن شركة مرسيليا عن بدء عمليات التخلص النهائي من النفايات الخطرة في أول خلية دفن صحية في ليبيا، بحضور لجنة متخصصة من وزارة البيئة. تتم عمليات الدفن وفق المعايير المعتمدة محليًا ودوليًا، تعزيزًا لالتزام الشركة بحماية البيئة وصحة المجتمع. يعكس هذا الإنجاز رؤية مرسيليا نحو الاستدامة والمساهمة في بناء مستقبل بيئي أفضل."
+      }
+    ]
+  },
+  "ar": {
+    "news": [
+      {
+        "title": "Visit of Mr. Rossi Riccardo from Termomeccanica Ecologia Italy to Marsilia Company to Enhance Environmental Cooperation",
+        "des": "On 2024/07/09, Marsilia Company had the honor of welcoming Mr. Rossi Riccardo, the Commercial Director of Termomeccanica Ecologia, an Italian company. The purpose of the visit was to explore our capabilities in environmental logistics services. This visit provided an opportunity to exchange expertise and discuss potential avenues for future collaboration between the two companies. At Marsilia, we are committed to delivering top-tier environmental services, and we believe that this visit will contribute to strengthening our position and enhancing our services sustainably. Stay tuned to our website for more updates and news."
+      },
+      {
+        "title": "Strategic Partnership Between Marsilia for Cleaning and Amaq International to Achieve Sustainability in the Oil and Gas Sector",
+        "des": "Marsilia for Cleaning and Environmental Protection, in collaboration with Amaq International for Oil Waste Services, has provided exceptional services to Mellitah Oil & Gas Company. These services include the treatment and management of oil waste using the latest advanced technologies, ensuring environmental protection and compliance with international standards. This partnership strengthens both companies' efforts to promote environmental sustainability and improve operational excellence in the oil and gas sector. Marsilia is proud to partner with Amaq International to offer innovative and integrated solutions that meet the needs of its partners and support their environmental and economic goals."
+      },
+      {
+        "title": "Marsilia and Amaq International Successfully Complete Oil Waste Treatment at Janzour Station for the General Electricity Company",
+        "des": "Marsilia for Cleaning and Environmental Protection, in collaboration with Amaq International for Oil Services, successfully completed oil waste treatment operations at the Janzour Station for the General Electricity Company. The project involved executing all necessary procedures to ensure the safe and environmentally sound disposal of accumulated oil waste in accordance with both local and international environmental standards. This achievement reflects Marsilia’s commitment to delivering optimal and integrated solutions for clients in the oil and energy sector, while also fostering strategic partnerships that ensure operational sustainability and deliver both environmental and economic value."
+      },
+      {
+        "title": "Emissions Monitoring in Cooperation with the Ministry of Environment and the Environmental Police Authority",
+        "des": "Green Life Company, in collaboration with the Ministry of Environment and the Environmental Police Authority, carried out an emissions monitoring project following the recent volcanic eruption in Sicily, Italy. The project involved deploying advanced air quality monitoring systems at various strategic locations in Tripoli to accurately and efficiently detect potential emissions. Field teams were equipped with the latest technologies, including portable air monitoring devices and drones, ensuring comprehensive coverage and precise analysis of environmental data. This initiative aims to protect the environment and public health from potential negative impacts. Green Life Company reaffirms its commitment to preserving the environment and offering advanced environmental solutions in collaboration with governmental entities, ensuring a cleaner and healthier environment for all."
+      },
+      {
+        "title": "Marsilia Waste Separation Policy: Recycling and Resource Conservation",
+        "des": "At Marsilia, we implement a comprehensive waste separation policy across our facilities. As part of this initiative, we have placed designated bins throughout our premises to allow for the segregation of various waste streams. The main waste categories we separate include: paper and cardboard, plastic, metal, and glass. Each type is collected in specific containers for dedicated recycling. Our staff regularly receive training on proper waste separation procedures, and we conduct awareness campaigns to educate our clients and the local community on the importance of waste sorting. We believe that this integrated approach is vital for achieving positive environmental impact and transitioning towards a more circular and sustainable economy."
+      },
+      {
+        "title": "Marsilia Company Explores Cooperation Opportunities with Turkish Firm Akarmak to Advance Waste Management",
+        "des": "As part of its efforts to expand international business relations, Marsilia Company, a Libyan leader in waste management, welcomed a delegation from the Turkish company Akarmak—renowned for manufacturing sterilization equipment and systems for medical waste treatment and tire recycling. The important visit lasted for three days, during which Marsilia's delegation met with the General Manager and Sales Director. Discussions covered Akarmak’s advanced technical capabilities and explored potential joint cooperation in various waste management fields. The two sides agreed to form a joint working group to assess opportunities for collaboration, including the supply of advanced sterilization systems and medical waste treatment technologies to healthcare facilities in Libya. Akarmak representatives expressed their appreciation for Marsilia’s environmental efforts and their eagerness to strengthen collaboration. Marsilia reaffirmed its commitment to delivering high-quality services and contributing to sustainable development in the region."
+      },
+      {
+        "title": "Environmental Engineering Students from Sabratha University Visit Marsilia for Practical Training",
+        "des": "As part of the close collaboration between Sabratha University and Marsilia Company, a field visit was organized for students from the Environmental Engineering Department. The primary goal of the visit was to connect academic knowledge with real-world applications. Marsilia experts and staff welcomed the students and their supervisors at the company’s facilities. The visit began with an overview of the company’s activities and its environmental sustainability efforts, followed by detailed presentations on the advanced waste treatment technologies in use. Students toured the treatment facilities and witnessed the processes of sorting, refining, and safely disposing of hazardous waste. They interacted with company experts and raised insightful questions about operational challenges and solutions. The students praised the valuable experience, which enriched their academic learning. Faculty members and students expressed their hopes for ongoing partnerships that combine theoretical and practical training to better prepare future environmental engineers."
+      },
+      {
+        "title": "Marsilia Expands Expertise Through Technical Cooperation",
+        "des": "As part of its ongoing efforts to enhance services, Marsilia Company recently hosted a meeting with representatives from Termomeccanica Ecologia Spa, an Italian company specializing in environmental engineering and clean technologies, during their visit to Libya. The meeting focused on knowledge exchange and exploring potential areas of collaboration, especially in wastewater management. Both companies discussed opportunities for joint technical consultations and project development in the treatment and disposal of wastewater. This aligns with Marsilia’s commitment to remaining at the forefront of environmental protection technologies and practices. Additionally, Marsilia’s team conducted a comprehensive evaluation of electromechanical equipment at the wastewater treatment plant (STP) operated by the company. This evaluation forms part of Marsilia’s continuous efforts to improve infrastructure performance and uphold high environmental management standards. Through industry partnerships and technical advancement, Marsilia reinforces its position as a reliable provider of innovative and sustainable environmental services in the Libyan market."
+      },
+      {
+        "title": "Visit of the Arab Pharmacists Union and the Association of Arab Scientists and Experts",
+        "des": "Our company, Marsilia for Cleaning and Environmental Protection, had the honor of receiving a delegation from the Arab Pharmacists Union and the Association of Arab Scientists and Experts, led by Dr. Ali Ibrahim—the Secretary-General of the Arab Pharmacists Union and President of the Association. This visit provided a valuable opportunity to exchange knowledge and strengthen collaboration in the fields of pharmacy and environmental protection. We look forward to a bright future of fruitful cooperation. We extend our sincere thanks to the visiting delegation for this important and inspiring visit. We are excited to work together toward a better future."
+      },
+      {
+        "title": "Marsilia Organizes Campus Cleanup at the University of Tripoli’s Faculty of Engineering",
+        "des": "As part of its efforts to enhance the university environment, Marsilia Company organized a comprehensive cleanup campaign at the Faculty of Engineering, University of Tripoli, on Friday, May 5, 2023. The campaign focused on removing posters and random graffiti from the walls of the main building. This initiative was part of the preparations for the upcoming scientific conference on water resources and water security to be hosted by the faculty. We are proud to support cleanliness and aesthetics on campus as part of our ongoing collaboration with educational institutions to promote quality and environmental standards."
+      },
+      {
+        "title": "Derna: Marsilia Leads Community Support Initiative After Storm Daniel",
+        "des": "In the aftermath of the devastating storm that hit the city of Derna, Marsilia for Cleaning and Environmental Protection, in collaboration with the National Crisis Management Center, intensified its efforts to support the local community. These efforts included large-scale cleanup operations and pest control measures in affected areas. The initiative is part of a national response strategy to address the disaster's consequences. Officials from Marsilia and the National Center stressed the importance of such actions in alleviating the storm’s impact and promoting community resilience. This initiative highlights the critical role of both public and private sectors in fostering solidarity and addressing the needs of affected communities during crises."
+      },
+      {
+        "title": "Marsilia Launches Final Disposal Phase for Expired Pharmaceutical and Food Waste at Tripoli Port",
+        "des": "In line with its ongoing commitment to implementing best practices in hazardous and sustainable waste management in Libya, Marsilia Company has announced the launch of final disposal operations for expired pharmaceutical and food waste at Tripoli Port. This initiative is conducted in close coordination with the Ministry of Environment and the Libyan Customs Authority. The operations are carried out with the highest standards of care to ensure the protection of the environment and public health. Specialized Marsilia teams inspect and sort the waste in full coordination with the relevant authorities to ensure safe and effective disposal, following the latest and most secure treatment technologies. This step reinforces Marsilia’s dedication to applying top-tier quality and safety standards in waste management and its continued efforts to support government goals for sustainable development and environmental protection in Libya."
+      },
+      {
+        "title": "Proudly Announcing the Launch of Final Disposal Operations for Hazardous Waste at Libya’s First Sanitary Landfill Cell",
+        "des": "We are proud to announce the commencement of final disposal operations for hazardous waste at the first sanitary landfill cell (safe landfill) in Libya. With the presence of a specialized committee from the Ministry of Environment, Marsilia for Cleaning and Environmental Protection has begun secure burial operations using internationally and locally approved methods. This reflects our steadfast commitment to environmental protection and public health. We continually strive to achieve the highest standards of safety and quality in our services. This accomplishment embodies our vision for sustainability and our contribution to building a better future."
       }
     ]
   }

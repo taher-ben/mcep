@@ -3,6 +3,11 @@ import Home from "../views/Home.vue";
 
 const routes = [
   {
+    path: "/show/:type",
+    name: "showMangement",
+    component: () => import("../components/showMangement.vue"),
+  },
+  {
     path: "/",
     name: "Home",
     component: Home,
@@ -24,6 +29,14 @@ const routes = [
     // which is lazy-loaded when the route is visited.
     component: () =>
       import(/* webpackChunkName: "about" */ "../views/NewsAndSubjects.vue"),
+  },
+  {
+    path: "/test",
+    name: "test",
+    // route level code-splitting
+    // this generates a separate chunk (test.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "test" */ "../views/Test.vue"),
   },
 ];
 

@@ -59,7 +59,7 @@ const links = [
   <div class="bg-white container mx-auto">
     <router-view class="  " />
   </div>
-  <div
+  <!-- <div
     class="pt-32 container mx-auto grid xl:grid-cols-5 md:grid-cols-2 md:grid-row-2 gap-8 place-content-between"
   >
     <div class="text-white text-lg divide-y-2 font-light">
@@ -194,7 +194,7 @@ const links = [
         </span>
       </div>
     </div>
-  </div>
+  </div> -->
 </template>
 <style scoped>
 .menu-links {
